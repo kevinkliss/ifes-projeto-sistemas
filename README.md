@@ -3,3 +3,4 @@ Repositório solicitado para a disciplina Projeto de Sistemas, do curso Sistemas
 
 - ATIVIDADE 1: [Calculadora em Java usando Reflection](01_AtividadeCalculadoraMVCReflection).
 - ATIVIDADE 2: [Calculadora com FastAPI](./02_AtividadeCalculadoraFastAPI).
+- ATIVIDADE 3: [Lib da Calculadora com FastAPI](./03_AtividadeCalculadoraFastAPI_lib).
